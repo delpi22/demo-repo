@@ -6,6 +6,4 @@ Some description!
 
 watch tutorial on YouTube.
 
-## modificaaaaaa
-
-1. ciaoooooo
+# branch main readme
